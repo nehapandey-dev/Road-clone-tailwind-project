@@ -4,8 +4,9 @@ Hello there it's Neha Pandey.
 ### This Project is about Road-clone landing page.
 
 ### Challenges
-Since in this project ,I had to built the website by using taiwind so there were lots of challenges for me like-
-- mobile responsive 
+Since in this project ,I had to built this website by using taiwind so there were lots of challenges for me like-
+- mobile responsive | min width to max width
+- background-color | font-bold | text-size
 - injected down arrow , user logo on navigation bar section
 - flexbox properties (flex ,flex-direction and align- items , gap)
 - justify-content (space-between , space around, space-evenly,center)
